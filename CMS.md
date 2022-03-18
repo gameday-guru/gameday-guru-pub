@@ -1,3 +1,4 @@
 # gameday-guru-pub
-[Rk]
+<Rk>
 # The team rank
+ <Rk>
