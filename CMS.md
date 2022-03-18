@@ -1,6 +1,6 @@
 # gameday-guru-pub
 <Rk>
-the team rank.
+the __team__ rank.
  </Rk>
  <Team>
 the team name.
