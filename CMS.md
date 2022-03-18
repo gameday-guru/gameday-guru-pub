@@ -1,4 +1,7 @@
 # gameday-guru-pub
 <Rk>
-# The team rank
+the team rank.
  </Rk>
+ <Team>
+the team name.
+ </Team>
